@@ -1,0 +1,4 @@
+numpy==1.24.3
+streamlit==1.28.2
+Image==9.4.0
+tensorflow==2.15.0
